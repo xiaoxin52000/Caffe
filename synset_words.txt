@@ -1,0 +1,2 @@
+0 nofood
+1 food
